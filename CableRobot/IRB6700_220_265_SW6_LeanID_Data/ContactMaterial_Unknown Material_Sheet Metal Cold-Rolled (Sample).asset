@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_Unknown Material_Sheet Metal Cold-Rolled (Sample)
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: 32c89b84586e9104a8693b9ac895dddc, type: 2}
+  m_material2: {fileID: 11400000, guid: c8ae82605ed7db14dab786aeee8ae425, type: 2}
+  m_frictionModel: {fileID: 11400000, guid: 9aa7bce46a5b7b04ab749917236f1717, type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_useContactArea: 0
+--- !u!114 &114773967550687318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_Unknown Material_Unknown Material
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: c8ae82605ed7db14dab786aeee8ae425, type: 2}
+  m_material2: {fileID: 11400000, guid: c8ae82605ed7db14dab786aeee8ae425, type: 2}
+  m_frictionModel: {fileID: 114890318486302014, guid: 9aa7bce46a5b7b04ab749917236f1717,
+    type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_useContactArea: 0
