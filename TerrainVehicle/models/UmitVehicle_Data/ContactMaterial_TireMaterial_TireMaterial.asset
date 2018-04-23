@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_TireMaterial_TireMaterial
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: a6e24c69a3d18714298ee7a3f97d2b7f, type: 2}
+  m_material2: {fileID: 11400000, guid: a6e24c69a3d18714298ee7a3f97d2b7f, type: 2}
+  m_frictionModel: {fileID: 11400000, guid: c461eca7e504d6c44af2a6311a4442f5, type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_useContactArea: 0
+--- !u!114 &114354480093027910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_GroundMaterial_Unknown Material
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 114105125906454590, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_material2: {fileID: 114271798145894648, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_frictionModel: {fileID: 114089072028228972, guid: c461eca7e504d6c44af2a6311a4442f5,
+    type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_useContactArea: 0
+--- !u!114 &114520895497433312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_GroundMaterial_GroundMaterial
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 114271798145894648, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_material2: {fileID: 114271798145894648, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_frictionModel: {fileID: 114333551440120502, guid: c461eca7e504d6c44af2a6311a4442f5,
+    type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_useContactArea: 0
+--- !u!114 &114522792160024514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_Unknown Material_TireMaterial
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: a6e24c69a3d18714298ee7a3f97d2b7f, type: 2}
+  m_material2: {fileID: 114105125906454590, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_frictionModel: {fileID: 114157733530181000, guid: c461eca7e504d6c44af2a6311a4442f5,
+    type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_useContactArea: 0
+--- !u!114 &114802176145741668
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_GroundMaterial_TireMaterial
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: a6e24c69a3d18714298ee7a3f97d2b7f, type: 2}
+  m_material2: {fileID: 114271798145894648, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_frictionModel: {fileID: 114688317260412640, guid: c461eca7e504d6c44af2a6311a4442f5,
+    type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 1, y: 1}
+  m_restitution: 0
+  m_useContactArea: 1
+--- !u!114 &114973499969299010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_Unknown Material_Unknown Material
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 114105125906454590, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_material2: {fileID: 114105125906454590, guid: a6e24c69a3d18714298ee7a3f97d2b7f,
+    type: 2}
+  m_frictionModel: {fileID: 114548117356309522, guid: c461eca7e504d6c44af2a6311a4442f5,
+    type: 2}
+  m_youngsModulus: 2e+10
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.8, y: 0.8}
+  m_restitution: 0
+  m_useContactArea: 0
