@@ -34,7 +34,7 @@ Control the vehicle using the keyboard (left/right/up/down).
 
 ![](images/CableVSWire.png)
 
-To illustrate the difference between the `agxCable::Cable` class and the `agxWire::Wire` class this scene show two similar scenarios where one is using 
+To illustrate an important difference between the `agxCable::Cable` class and the `agxWire::Wire` class this scene show two similar scenarios where one is using 
 the Cable and the other using the Wire class. Notice that the one using a Wire is perfectly stable, even under high loads.
 You can change the mass of the WireWeight rigid body to see how the wire reacts even under very high loads.
 
@@ -42,3 +42,7 @@ Also, the crane arm is flexible, using a number of rigid bodies, locked to each 
 be set using the editor when running the simulation.
 
 Also, the winch in the wire crane can be operated using the same property editor.
+
+This does not mean that the Cable *does not work* it just means that it behaves as expected from a lumped element model under high tension. The `agxCable::Cable` class is excellent for modelling hoses, ropes, hydraulic pipes etc where you do not have a high load compared to the individual mass elements in the discretized cable model.
+
+The `agx::Wire` class on the other hand is a different beast that can cope with extremely high load, still it has a realistic interaction with surrounding geometries, including contact friction...
