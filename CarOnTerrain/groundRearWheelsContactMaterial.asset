@@ -18,4 +18,9 @@ MonoBehaviour:
   m_surfaceViscosity: {x: 0.0005, y: 0.0005}
   m_frictionCoefficients: {x: 1, y: 1}
   m_restitution: 0
+  m_damping: 0.075
+  m_adhesiveForce: 0
+  m_adhesiveOverlap: 0
   m_useContactArea: 1
+  m_contactReductionMode: 1
+  m_contactReductionLevel: 1

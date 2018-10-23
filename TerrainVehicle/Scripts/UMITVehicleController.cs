@@ -544,7 +544,9 @@ public class UMITVehicleController : ScriptComponent
     lockJoint.setEnable(false);
 
     // Make sure orientation of the wheel is correct
-    var m = new agx.AffineMatrix4x4(new agx.Quat(new agx.Vec3(0, 0, 1), new agx.Vec3(0, 1, 0)));
+    var m = new agx.AffineMatrix4x4(new agx.Quat(new agx.Vec3(0, 0, 1),
+                                                 new agx.Vec3(0, 1, 0)),
+                                    new agx.Vec3());
 
     // Create a tire model that connects the Tire with the Rim
     var tireModel = new agxModel.TwoBodyTire(tire, 1.0, rim, 0.5, m);
