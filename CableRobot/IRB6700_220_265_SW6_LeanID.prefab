@@ -33197,6 +33197,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1588518158423100}
+    m_segments: {fileID: 1282762230307210}
     m_counter: 19
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -33659,6 +33660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1992176166728786}
+    m_segments: {fileID: 1717216727030344}
     m_counter: 12
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -35754,6 +35756,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1278403540002068}
+    m_segments: {fileID: 1865237302299046}
     m_counter: 74
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -40152,6 +40155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1570041064449834}
+    m_segments: {fileID: 1213206055836790}
     m_counter: 14
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -42111,6 +42115,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1804364013139022}
+    m_segments: {fileID: 1010352221977306}
     m_counter: 13
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
