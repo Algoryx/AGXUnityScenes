@@ -4799,8 +4799,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4000369467958370}
   - component: {fileID: 114421579587982532}
-  - component: {fileID: 114510850122922024}
-  - component: {fileID: 114771521509824432}
   m_Layer: 0
   m_Name: IRB6700_220_265_SW6_LeanID
   m_TagString: Untagged
@@ -33199,7 +33197,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1588518158423100}
-    m_segments: {fileID: 1282762230307210}
     m_counter: 19
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -33662,7 +33659,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1992176166728786}
-    m_segments: {fileID: 1717216727030344}
     m_counter: 12
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -35758,7 +35754,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1278403540002068}
-    m_segments: {fileID: 1865237302299046}
     m_counter: 74
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -36506,38 +36501,6 @@ MonoBehaviour:
   - {fileID: 114434579362920940}
   - {fileID: 114052968960111660}
   - {fileID: 114790972091758174}
---- !u!114 &114510850122922024
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1536252650356850}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 372142912, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_SceneId:
-    m_Value: 0
-  m_AssetId:
-    i0: 139
-    i1: 202
-    i2: 223
-    i3: 50
-    i4: 1
-    i5: 148
-    i6: 162
-    i7: 52
-    i8: 201
-    i9: 168
-    i10: 129
-    i11: 51
-    i12: 22
-    i13: 234
-    i14: 88
-    i15: 67
-  m_ServerOnly: 0
-  m_LocalPlayerAuthority: 0
 --- !u!114 &114512310458447776
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -39686,27 +39649,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_component: {fileID: 114925506156629870}
---- !u!114 &114771521509824432
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1536252650356850}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1768714887, guid: dc443db3e92b4983b9738c1131f555cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_TransformSyncMode: 1
-  m_SendInterval: 0.1
-  m_SyncRotationAxis: 7
-  m_RotationSyncCompression: 0
-  m_SyncSpin: 0
-  m_MovementTheshold: 0.001
-  m_VelocityThreshold: 0.0001
-  m_SnapThreshold: 5
-  m_InterpolateRotation: 1
-  m_InterpolateMovement: 1
 --- !u!114 &114771784258218838
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -40210,7 +40152,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1570041064449834}
-    m_segments: {fileID: 1213206055836790}
     m_counter: 14
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
@@ -42170,7 +42111,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_segmentSpawner:
     m_segmentInstance: {fileID: 1804364013139022}
-    m_segments: {fileID: 1010352221977306}
     m_counter: 13
     m_prefabObjectPath: Cable/CableSegment
     m_separateFirstObjectPrefabPath: Cable/CableSegmentBegin
