@@ -2035,6 +2035,49 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
+--- !u!1 &876332368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 876332370}
+  - component: {fileID: 876332369}
+  m_Layer: 0
+  m_Name: AGXUnity.RuntimeObjects
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &876332369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 876332368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b6a9e4af77e3804aae97d5030ab5f9c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &876332370
+Transform:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 876332368}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &883518971 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 920419554986722423, guid: 6b9b707ce6d329b40b544f5e72fc84a7,
@@ -2506,6 +2549,11 @@ PrefabInstance:
       propertyPath: m_enable
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2855540124048489948, guid: 6b9b707ce6d329b40b544f5e72fc84a7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3433314813111729368, guid: 6b9b707ce6d329b40b544f5e72fc84a7,
         type: 3}
       propertyPath: m_groups.Array.size
@@ -2520,6 +2568,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_groups.Array.data[1].m_propagateToChildren
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6930268415988001591, guid: 6b9b707ce6d329b40b544f5e72fc84a7,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b9b707ce6d329b40b544f5e72fc84a7, type: 3}
@@ -3390,49 +3443,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000005, y: 1.0000005, z: 1.000001}
---- !u!1 &1228319055
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1228319057}
-  - component: {fileID: 1228319056}
-  m_Layer: 0
-  m_Name: AGXUnity.RuntimeObjects
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1228319056
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1228319055}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b6a9e4af77e3804aae97d5030ab5f9c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &1228319057
-Transform:
-  m_ObjectHideFlags: 8
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1228319055}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1234829131 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3539274883454723039, guid: 6b9b707ce6d329b40b544f5e72fc84a7,
@@ -5044,7 +5054,7 @@ MonoBehaviour:
     m_firstSegmentInstance: {fileID: 0}
     m_parentComponent: {fileID: 1843404681}
     m_material: {fileID: 2100000, guid: e8c00450753369848a2999e0a11b8b57, type: 2}
-  NumberOfSegmentsPerMeter: 5
+  NumberOfSegmentsPerMeter: 10
   m_material: {fileID: 2100000, guid: e8c00450753369848a2999e0a11b8b57, type: 2}
 --- !u!114 &1843404681
 MonoBehaviour:
@@ -5059,7 +5069,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_radius: 0.01
-  m_resolutionPerUnitLength: 5
+  m_resolutionPerUnitLength: 10
   m_linearVelocityDamping: 0.3
   m_scaleConstant: 0.35
   m_material: {fileID: 11400000, guid: ef7ce41585f4afa45954ff1fe54e0cff, type: 2}
