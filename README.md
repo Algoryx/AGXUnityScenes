@@ -14,6 +14,12 @@ To use these scenes you need to do the following:
 7. Done.
 
 
+## DeckCrane
+![](images/DeckCrane.png)
+
+This scene is part of the tutorial [Modelling a crane with wires](https://www.youtube.com/watch?v=YNEDk1417iM&feature=youtu.be). It show the workflow of modelling a complete crane system starting from a CAD model. It utilizes [Algoryx Momentum](https://www.algoryx.se/products/algoryx-momentum/) for the modelling of the crane parts including dynamic properties such as joints, materials, rigid bodies and collision shapes. 
+
+
 ## CableRobot
 ![](images/cableRobot.png)
 
