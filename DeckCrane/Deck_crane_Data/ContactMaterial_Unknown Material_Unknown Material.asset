@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_Unknown Material_Unknown Material
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: f6de384be1d723841a887d6d1cc0f3a1, type: 2}
+  m_material2: {fileID: 11400000, guid: f6de384be1d723841a887d6d1cc0f3a1, type: 2}
+  m_frictionModel: {fileID: 11400000, guid: 388251314187bd4409e5646c7285900a, type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_damping: 0.075
+  m_adhesiveForce: 0
+  m_adhesiveOverlap: 0
+  m_useContactArea: 1
+  m_contactReductionMode: 1
+  m_contactReductionLevel: 2
+--- !u!114 &114069409183116608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_Unknown Material_SheaveMaterial
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: f6de384be1d723841a887d6d1cc0f3a1, type: 2}
+  m_material2: {fileID: 114614206021914622, guid: f6de384be1d723841a887d6d1cc0f3a1,
+    type: 2}
+  m_frictionModel: {fileID: 114475782753680378, guid: 388251314187bd4409e5646c7285900a,
+    type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_damping: 0.075
+  m_adhesiveForce: 0
+  m_adhesiveOverlap: 0
+  m_useContactArea: 1
+  m_contactReductionMode: 1
+  m_contactReductionLevel: 2
+--- !u!114 &114630461206756144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: ContactMaterial_SheaveMaterial_SheaveMaterial
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 114614206021914622, guid: f6de384be1d723841a887d6d1cc0f3a1,
+    type: 2}
+  m_material2: {fileID: 114614206021914622, guid: f6de384be1d723841a887d6d1cc0f3a1,
+    type: 2}
+  m_frictionModel: {fileID: 114968949949504158, guid: 388251314187bd4409e5646c7285900a,
+    type: 2}
+  m_youngsModulus: 2e+11
+  m_surfaceViscosity: {x: 0.00000001, y: 0.00000001}
+  m_frictionCoefficients: {x: 0.15, y: 0.15}
+  m_restitution: 0.2
+  m_damping: 0.075
+  m_adhesiveForce: 0
+  m_adhesiveOverlap: 0
+  m_useContactArea: 1
+  m_contactReductionMode: 1
+  m_contactReductionLevel: 2
