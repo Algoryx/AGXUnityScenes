@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8456351079186150978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7119a14bd67d1a84b9caafde286f8582, type: 3}
+  m_Name: FrictionModel_ContactMaterial_ForkMaterial_ForkMaterial
+  m_EditorClassIdentifier: 
+  m_solveType: 3
+  m_type: 0
+--- !u!114 &-4668579292524625584
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7119a14bd67d1a84b9caafde286f8582, type: 3}
+  m_Name: FrictionModel_ContactMaterial_TireMaterial_TireMaterial
+  m_EditorClassIdentifier: 
+  m_solveType: 3
+  m_type: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7119a14bd67d1a84b9caafde286f8582, type: 3}
+  m_Name: FrictionModel_ContactMaterial_Unknown Material_Unknown Material
+  m_EditorClassIdentifier: 
+  m_solveType: 3
+  m_type: 0
+--- !u!114 &4292191735779675909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7119a14bd67d1a84b9caafde286f8582, type: 3}
+  m_Name: FrictionModel_ContactMaterial_Unknown Material_TireMaterial
+  m_EditorClassIdentifier: 
+  m_solveType: 3
+  m_type: 0
+--- !u!114 &8038977388110617471
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7119a14bd67d1a84b9caafde286f8582, type: 3}
+  m_Name: FrictionModel_ContactMaterial_Unknown Material_ForkMaterial
+  m_EditorClassIdentifier: 
+  m_solveType: 3
+  m_type: 0
+--- !u!114 &8946798387843752956
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7119a14bd67d1a84b9caafde286f8582, type: 3}
+  m_Name: FrictionModel_ContactMaterial_TireMaterial_ForkMaterial
+  m_EditorClassIdentifier: 
+  m_solveType: 3
+  m_type: 0
