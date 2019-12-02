@@ -52,3 +52,13 @@ Also, the winch in the wire crane can be operated using the same property editor
 This does not mean that the Cable *does not work* it just means that it behaves as expected from a lumped element model under high tension. The `agxCable::Cable` class is excellent for modelling hoses, ropes, hydraulic pipes etc where you do not have a high load compared to the individual mass elements in the discretized cable model.
 
 The `agx::Wire` class on the other hand is a different beast that can cope with extremely high load, still it has a realistic interaction with surrounding geometries, including contact friction...
+
+## ChargingStation
+
+![](images/ChargingStation.png)
+
+This is a sketch of a robot attaching a charging cable to an electric vehicle. It showcases one of new types of quadratic colliders - the hollow cone, in addition to being a general demo of simple keyboard control of a robot. Control the robot using keyboard commands detailed in the Readme file in the scene folder.
+
+This scene requires an AGX version of 2.27.1.0 or newer in order to use the charging socket hollow cone colliders.
+
+*Note:* this scene uses the Unity3D package CineMachine for camera control. The package is available from the Unity Package Manager starting with Unity versions 2018.X and up. The references to this package can be stripped out if desired.

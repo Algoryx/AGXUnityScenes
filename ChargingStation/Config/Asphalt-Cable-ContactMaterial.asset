@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa76d302d537f3643a58c6cab77fb092, type: 3}
+  m_Name: Asphalt-Cable-ContactMaterial
+  m_EditorClassIdentifier: 
+  m_material1: {fileID: 11400000, guid: f0ab0922c3c6a664b9aceded3980cb88, type: 2}
+  m_material2: {fileID: 11400000, guid: 699b19dd5c9dd1e4f948d3bb000915da, type: 2}
+  m_frictionModel: {fileID: 11400000, guid: b370711e08523a248a1bf81f513aa261, type: 2}
+  m_youngsModulus: 20000000
+  m_surfaceViscosity: {x: 0.000005, y: 0.000005}
+  m_frictionCoefficients: {x: 1, y: 1}
+  m_restitution: 0
+  m_damping: 0.3
+  m_adhesiveForce: 0.5
+  m_adhesiveOverlap: 0.5
+  m_useContactArea: 0
+  m_contactReductionMode: 0
+  m_contactReductionLevel: 1
