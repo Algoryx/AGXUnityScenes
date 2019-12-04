@@ -13,14 +13,17 @@ public class ForceController : ScriptComponent
 
   public KeyCode PositiveKey = KeyCode.W;
   public KeyCode NegativeKey = KeyCode.S;
+  public string JoystickAxisName = "Axis";
 
   public AnimationCurve TorqueCurve = AnimationCurve.EaseInOut(0.0f, 1.0E4f, 10.0f, 0.0f);
 
   public bool UseBrake = true;
 
-  public bool Debug = true;
+  public bool UseDebug = true;
 
   private float m_brakingForce;
+
+  private bool m_hasJoysticks = false;
 
   List<TargetSpeedController> m_motors = new List<TargetSpeedController>();
 
@@ -33,7 +36,7 @@ public class ForceController : ScriptComponent
 
       m_motors.Add(motorConstraint.GetInitialized<Constraint>().GetController<TargetSpeedController>());
 
-      if (Debug)
+      if (UseDebug)
       {
         UnityEngine.Debug.Log("Motor: " + name + ", constraint: " + motorConstraint.name);
       }
@@ -41,13 +44,16 @@ public class ForceController : ScriptComponent
 
     m_brakingForce = TorqueCurve.Evaluate(0);
 
+    if (Input.GetJoystickNames().Length > 0)
+      m_hasJoysticks = true;
+
     return true;
   }
   
   void FixedUpdate()
   {
-    // Keyboard input - could be moved to standalone input component
-    float input = 0;
+    // Input - could be moved to standalone input component
+    float input = m_hasJoysticks ? Input.GetAxis(JoystickAxisName) : 0;
     if (Input.GetKey(PositiveKey))
       input = 1;
     else if (Input.GetKey(NegativeKey))
@@ -58,7 +64,7 @@ public class ForceController : ScriptComponent
     {
       if (UseBrake && input == 0 && (PreventBrakingController == null || !PreventBrakingController.IsMoving))
       {
-        if (Debug)
+        if (UseDebug)
           m_brakingForce = TorqueCurve.Evaluate(0);
         m_motors[i].RowData[0].ForceRange = new RangeReal() { Min = -m_brakingForce, Max = m_brakingForce };
       }

@@ -193,10 +193,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &126589158 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5173414490829353488, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -216,10 +212,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -330,10 +322,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &217256430 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7614614296199587536, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -353,10 +341,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &217763331
 GameObject:
   m_ObjectHideFlags: 0
@@ -450,10 +434,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &275238299 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8599829131644122468, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -473,10 +453,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &298658698
 GameObject:
   m_ObjectHideFlags: 0
@@ -638,10 +614,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &447557051 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5847274515625660201, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -661,10 +633,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &457013169 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2979854830148546452, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -684,10 +652,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &528582448 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5631704315252989692, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -707,10 +671,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &533069196
 GameObject:
   m_ObjectHideFlags: 0
@@ -1047,10 +1007,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 0.99999994, y: 1.0000001, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &598343605 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 206618809062330915, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -1070,10 +1026,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &611184352
 GameObject:
   m_ObjectHideFlags: 0
@@ -1123,10 +1075,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &643281119 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6412019347675627357, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -1146,10 +1094,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &647517197
 GameObject:
   m_ObjectHideFlags: 0
@@ -1219,10 +1163,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &782780313
 GameObject:
   m_ObjectHideFlags: 0
@@ -1312,10 +1252,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000002, z: 0.99999994}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &885666690 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7073163853367475274, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -1335,10 +1271,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &906330401 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1460267162329730095, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -1358,10 +1290,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 0.99999994, y: 1.0000001, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1001 &911103972
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4676,10 +4604,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1001 &964729096
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4778,10 +4702,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1032598027
 GameObject:
   m_ObjectHideFlags: 0
@@ -4933,9 +4853,9 @@ MonoBehaviour:
   - {fileID: 1234012714}
   PositiveKey: 97
   NegativeKey: 100
+  JoystickAxisName: Steer
   MaxSpeed: 2
   Acceleration: 100
-  Mode: 0
 --- !u!114 &1032598035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4954,6 +4874,7 @@ MonoBehaviour:
   PreventBrakingController: {fileID: 1032598034}
   PositiveKey: 115
   NegativeKey: 119
+  JoystickAxisName: Forward
   TorqueCurve:
     serializedVersion: 2
     m_Curve:
@@ -4979,7 +4900,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   UseBrake: 1
-  Debug: 1
+  UseDebug: 1
 --- !u!114 &1032598036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4997,6 +4918,7 @@ MonoBehaviour:
   - {fileID: 1234012729}
   PositiveKey: 116
   NegativeKey: 121
+  JoystickAxisName: Tilt
   MaxSpeed: 0.05
   Acceleration: 1
 --- !u!114 &1032598038
@@ -5016,6 +4938,7 @@ MonoBehaviour:
   - {fileID: 1234012726}
   PositiveKey: 101
   NegativeKey: 113
+  JoystickAxisName: Lift
   MaxSpeed: 0.5
   Acceleration: 3
 --- !u!1 &1122963112 stripped
@@ -5037,10 +4960,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1153548420 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8270355826976499816, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -5060,10 +4979,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1184457489 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4905291374377232739, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -5083,10 +4998,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1001 &1234012713
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6312,10 +6223,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 0.99999994, y: 1.0000004, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012802
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6329,10 +6236,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012803
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6346,10 +6249,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 0.9999998, y: 1.0000002, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012804
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6363,10 +6262,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012805
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6380,10 +6275,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000005, y: 1.0000008, z: 1.0000013}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012806
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6397,10 +6288,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012807
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6414,10 +6301,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.000001, y: 1.0000006, z: 1.000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012808
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6431,10 +6314,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012809
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6448,10 +6327,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000006, y: 1.0000006, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012810
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6465,10 +6340,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000005, y: 1.000001, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012811
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6482,10 +6353,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000007, y: 1.0000013, z: 1.0000008}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012812
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6499,10 +6366,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012813
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6516,10 +6379,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012814
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6533,10 +6392,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012815
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6550,10 +6405,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000005, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012816
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6567,10 +6418,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012817
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6584,10 +6431,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000007, y: 1, z: 1.0000007}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012818
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6601,10 +6444,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012819
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6618,10 +6457,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000002, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012820
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6635,10 +6470,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012821
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6652,10 +6483,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012822
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6669,10 +6496,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012823
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6686,10 +6509,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000008, y: 1.0000002, z: 1.0000007}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012824
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6703,10 +6522,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012825
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6720,10 +6535,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012826
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6737,10 +6548,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000001, y: 1, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012827
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6754,10 +6561,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012828
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6771,10 +6574,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012829
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6788,10 +6587,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012830
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6805,10 +6600,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012831
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6822,10 +6613,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012832
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6839,10 +6626,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012833
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6856,10 +6639,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000001, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012834
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6873,10 +6652,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012835
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6890,10 +6665,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012836
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6907,10 +6678,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012837
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6924,10 +6691,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012838
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6941,10 +6704,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012839
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6958,10 +6717,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000001, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012840
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6975,10 +6730,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012841
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -6992,10 +6743,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012842
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7009,10 +6756,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012843
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7026,10 +6769,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012844
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7043,10 +6782,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012845
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7060,10 +6795,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012846
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7077,10 +6808,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000001, z: 1.0000004}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012847
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7094,10 +6821,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012848
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7111,10 +6834,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000006, y: 1.0000004, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012849
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7128,10 +6847,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012850
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7145,10 +6860,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000002, y: 1.0000006, z: 1.0000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012851
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7162,10 +6873,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012852
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7179,10 +6886,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012853
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7196,10 +6899,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000002, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012854
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7213,10 +6912,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000001, y: 1.0000005, z: 1.0000008}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012855
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7230,10 +6925,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000004, z: 1.0000006}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012856
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7247,10 +6938,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000004, z: 1.0000006}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012857
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7264,10 +6951,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000005, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012858
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7281,10 +6964,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000005, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012859
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7298,10 +6977,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000008, y: 1.0000004, z: 1.0000012}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012860
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7315,10 +6990,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000008, y: 1.0000004, z: 1.0000012}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012861
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7332,10 +7003,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000008, y: 1.0000004, z: 1.0000012}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012862
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7349,10 +7016,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.000001, z: 1.0000012}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012863
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7366,10 +7029,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.000001, z: 1.0000012}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012864
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7383,10 +7042,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.000001, z: 1.0000012}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012865
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7400,10 +7055,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000007, y: 1.0000005, z: 1.0000008}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012866
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7417,10 +7068,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000008, y: 1.0000004, z: 1.0000012}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012867
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7434,10 +7081,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012868
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7451,10 +7094,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012869
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7468,10 +7107,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012870
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7485,10 +7120,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!114 &1234012871
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -7502,10 +7133,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1245904228 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5205491128307120592, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -7525,10 +7152,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1258618136 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9077574101053037622, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -7548,10 +7171,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1313168886 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 241408264483543917, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -7571,10 +7190,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000002, z: 0.99999994}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1352845325 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8245558509014947062, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -7594,10 +7209,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1366362213
 GameObject:
   m_ObjectHideFlags: 0
@@ -7660,10 +7271,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1395441800 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6288001873226853614, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -7683,10 +7290,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1403806492
 GameObject:
   m_ObjectHideFlags: 0
@@ -7833,10 +7436,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000001, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1466930844
 GameObject:
   m_ObjectHideFlags: 0
@@ -7886,10 +7485,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!4 &1535429903 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 345772868523210247, guid: bbdb3573db37b3149978c90ffdab7ceb,
@@ -7915,10 +7510,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000002, z: 0.99999994}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1603854311
 GameObject:
   m_ObjectHideFlags: 16
@@ -7989,10 +7580,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1622352465 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 104500317050297647, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8012,10 +7599,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000004, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1647803200 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2611789826449094747, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8035,10 +7618,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1662778708 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8831594677460218057, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8058,10 +7637,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1665319489 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6558007301165173254, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8081,10 +7656,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000005, y: 1.0000001, z: 1.0000001}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1672024026 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8361906012994947110, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8104,10 +7675,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1720230175 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6580277014611118151, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8127,10 +7694,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1.0000001, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1001 &1760607375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8229,10 +7792,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1826042064 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3579409463709996090, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8252,10 +7811,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1.0000001, z: 1.0000002}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1827103674
 GameObject:
   m_ObjectHideFlags: 0
@@ -8474,10 +8029,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1.0000004, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &1934645761 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3077773483266011148, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8497,10 +8048,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &2004140948 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4683125984229548430, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8520,10 +8067,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &2015855913 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7754249608751775079, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8543,10 +8086,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &2045475158 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1596201668240920816, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8566,10 +8105,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!4 &2046526375 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7294004690266831558, guid: bbdb3573db37b3149978c90ffdab7ceb,
@@ -8595,10 +8130,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &2077705139 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8835223036379759543, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8618,10 +8149,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1 &2138345756 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6090792078894987278, guid: 5690cf74b9528884e81c1d49fa5549ae,
@@ -8641,10 +8168,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_storedLossyScale: {x: 1, y: 1, z: 1}
-  m_topRadius: 0
-  m_bottomRadius: 0
-  m_thickness: 0
-  m_height: 0
 --- !u!1001 &1554512673642257331
 PrefabInstance:
   m_ObjectHideFlags: 0

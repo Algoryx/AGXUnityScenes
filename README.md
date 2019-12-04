@@ -62,3 +62,12 @@ This is a sketch of a robot attaching a charging cable to an electric vehicle. I
 This scene requires an AGX version of 2.27.1.0 or newer in order to use the charging socket hollow cone colliders.
 
 *Note:* this scene uses the Unity3D package CineMachine for camera control. The package is available from the Unity Package Manager starting with Unity versions 2018.X and up. The references to this package can be stripped out if desired.
+
+## Forklift
+
+![](images/Forklift.png)
+
+A simple forklift simulator with basic keyboard controls to show off different types of joints and friction.
+
+In order to control the forklift with a gamepad or similar device, set up four joystick axes in the Unity project using the ProjectSettings->Input menu
+ matching the strings "Forward", "Steering", "Lift" and "Tilt".

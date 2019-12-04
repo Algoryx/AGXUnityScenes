@@ -9,11 +9,14 @@ public class SpeedController : ScriptComponent
 
   public KeyCode PositiveKey = KeyCode.W;
   public KeyCode NegativeKey = KeyCode.S;
+  public string JoystickAxisName = "Axis";
 
   public float MaxSpeed = 2f;
   public float Acceleration = 1f;
 
   List<TargetSpeedController> m_motors = new List<TargetSpeedController>();
+
+  private bool m_hasJoysticks = false;
 
   // Start is called before the first frame update
   protected override bool Initialize()
@@ -27,14 +30,17 @@ public class SpeedController : ScriptComponent
       var motor = motorConstraint.GetInitialized<Constraint>().GetController<TargetSpeedController>();
       m_motors.Add(motor);
     }
-     
+
+    if (Input.GetJoystickNames().Length > 0)
+      m_hasJoysticks = true;
+
     return true;
   }
   
   void FixedUpdate()
   {
-    // Keyboard input - could be moved to standalone input component
-    float input = 0;
+    // Input - could be moved to standalone input component
+    float input = m_hasJoysticks ? Input.GetAxis(JoystickAxisName) : 0;
     if (Input.GetKey(PositiveKey))
       input = 1;
     else if (Input.GetKey(NegativeKey))
